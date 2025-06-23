@@ -42,5 +42,5 @@
 ### The formula used is
     =LEFT(C2, FIND("|", C2) - 1 )
 ### A pivot table is then used. The 'product_category' in rows and 'discount_price' in values, the values is sum at default hence change it to average. 
-![My Image](https://user-images.githubusercontent.com/your-image-url.png)
+![My Image](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-23%20094042.png?raw=true)
 
