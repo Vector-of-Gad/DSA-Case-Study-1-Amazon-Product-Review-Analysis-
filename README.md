@@ -42,8 +42,12 @@
 ### The formula used is
     =LEFT(C2, FIND("|", C2) - 1 )
 ### A pivot table is then used. The 'product_category' in rows and 'discount_price' in values, the values is sum at default hence change it to average. 
-![My Image](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-23%20094042.png?raw=true)
+![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-23%20094042.png?raw=true)
 
  ### Question 2; How many products are listed under each category?
 ###  The 'product_category' in rows and 'product_name' in values
 ![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-23%20113750.png)
+
+## Question 3; What is the total number of reviews per category?
+###  The 'product_category' in rows and 'reviews_ID' in values
+![]()
