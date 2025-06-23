@@ -50,4 +50,6 @@
 
 ## Question 3; What is the total number of reviews per category?
 ###  The 'product_category' in rows and 'reviews_ID' in values
-![]()
+![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-23%20114828.png)
+
+## Question 4; Which products have the highest average ratings? 
