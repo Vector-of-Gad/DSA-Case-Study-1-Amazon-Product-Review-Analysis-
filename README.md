@@ -46,4 +46,4 @@
 
  ### Question 2; How many products are listed under each category?
 ###  The 'product_category' in rows and 'product_name' in values
-![]()
+![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-23%20113750.png)
