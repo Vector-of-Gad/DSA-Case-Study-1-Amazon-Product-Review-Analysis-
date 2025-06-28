@@ -99,3 +99,7 @@
 ![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-28%20184442.png?raw=true)
 
 ## Question 9; What is the total potential revenue (actual_price × rating_count) by category? 
+![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-28%20190908.png?raw=true)
+
+## Question 10; What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500)? 
+
