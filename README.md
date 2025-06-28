@@ -102,4 +102,7 @@
 ![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-28%20191518.png?raw=true)
 
 ## Question 10; What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500)? 
+![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-28%20192327.png?raw=true)
+
+## Question 11;  How does the rating relate to the level of discount? 
 
