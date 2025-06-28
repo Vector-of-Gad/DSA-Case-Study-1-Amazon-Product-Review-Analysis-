@@ -68,10 +68,10 @@
  - Home&Kitchen
  - OfficeProducts
  - Toys&Games
-### A pivot table is then used. The 'product_category' in rows and 'discount_price' in values, the values is sum at default hence change it to average. 
+ ## A pivot table is then used. The 'product_category' in rows and 'discount_price' in values, the values is sum at default hence change it to average. 
 ![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-28%20175645.png?raw=true)
 
- ### Question 2; How many products are listed under each category?
+## Question 2; How many products are listed under each category?
 ###  The 'product_category' in rows and 'product_name' in values
 ![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-28%20180535.png?raw=true)
 
