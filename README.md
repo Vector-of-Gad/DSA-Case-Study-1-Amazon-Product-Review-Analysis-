@@ -60,7 +60,7 @@
    
  ## ANSWERS
  ### Question 1; What is the average discount percentage by product category?
- ### From the data given, the category doesn't just contain the product categories, it contain more details of each product. Noticably, using a pivot table, there are just seven product categories; 
+ ### From the data given, the category doesn't just contain the product categories, it contain more details of each product. According to product_category (a calculated column), there are just seven product categories; 
  - Car&Motorbike
  - Computer&Accessories
  - Electronics
@@ -68,9 +68,6 @@
  - Home&Kitchen
  - OfficeProducts
  - Toys&Games
-### Each of these categories has a delimeter of '|' which can be exploited to properly extract the product categories.
-### The formula used is
-    =LEFT(C2, FIND("|", C2) - 1 )
 ### A pivot table is then used. The 'product_category' in rows and 'discount_price' in values, the values is sum at default hence change it to average. 
 ![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-23%20094042.png?raw=true)
 
