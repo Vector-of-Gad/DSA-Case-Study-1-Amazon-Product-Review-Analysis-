@@ -81,6 +81,6 @@
 
 ## Question 4; Which products have the highest average ratings? 
 ###  The 'product_category' in rows and 'rating_count' in values
-![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-23%20125409.png)
+![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-28%20180851.png?raw=true)
 
 ## Question 5;  What is the average actual price vs the discounted price by category?
