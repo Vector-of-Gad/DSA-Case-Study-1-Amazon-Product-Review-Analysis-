@@ -88,3 +88,8 @@
 
 ## Question 6; Which products have the highest number of reviews?
 ![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-28%20182350.png?raw=true)
+
+## Question 7; How many products have a discount of 50% or more?
+```
+=COUNT(IF(amazon!G2:G1388 >= 50%, 1, 0))
+```
