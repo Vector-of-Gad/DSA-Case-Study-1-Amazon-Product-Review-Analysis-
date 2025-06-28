@@ -58,8 +58,8 @@
    =IFS(G2=0%, "No Discount", AND(G2>= 1%, G2 <=20%), "Low Discount", AND(G2>=21%, G2<=50%), "Medium Discount", G2>=51%, "High Discount")
    ```
    
- ## ANSWERS
- ### Question 1; What is the average discount percentage by product category?
+ ### ANSWERS
+ ## Question 1; What is the average discount percentage by product category?
  ### From the data given, the category doesn't just contain the product categories, it contain more details of each product. According to product_category (a calculated column), there are just seven product categories; 
  - Car&Motorbike
  - Computer&Accessories
@@ -68,7 +68,7 @@
  - Home&Kitchen
  - OfficeProducts
  - Toys&Games
- ## A pivot table is then used. The 'product_category' in rows and 'discount_price' in values, the values is sum at default hence change it to average. 
+ ### A pivot table is then used. The 'product_category' in rows and 'discount_price' in values, the values is sum at default hence change it to average. 
 ![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-28%20175645.png?raw=true)
 
 ## Question 2; How many products are listed under each category?
