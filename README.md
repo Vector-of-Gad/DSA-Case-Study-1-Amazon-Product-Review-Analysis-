@@ -84,3 +84,6 @@
 ![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-28%20180851.png?raw=true)
 
 ## Question 5;  What is the average actual price vs the discounted price by category?
+![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-28%20182227.png?raw=true)
+
+## Question 6; Which products have the highest number of reviews?
