@@ -96,3 +96,6 @@
 ![](https://raw.githubusercontent.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/f12b20c75ad39ce4841821bc7e70e51918b79173/Screenshot%202025-06-28%20183242.png)
 
 ## Question  8;  What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.)? 
+![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-28%20184442.png?raw=true)
+
+## Question 9; What is the total potential revenue (actual_price × rating_count) by category? 
