@@ -105,4 +105,7 @@
 ![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-28%20192327.png?raw=true)
 
 ## Question 11;  How does the rating relate to the level of discount? 
+![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-28%20192659.png?raw=true)
+
+## Question 12;  How many products have fewer than 1,000 reviews? 
 
