@@ -27,8 +27,38 @@
 13. Which categories have products with the highest discounts? 
 14. Identify the top 5 products in terms of rating and number of reviews combined.
     
+## DATA CLEANING
+ ### According to questions given, the required columns for the analysis are:
+ - name
+ - category
+ - price
+ - discount
+ - ratings
+ - rating count
+ - user review
+### Required calculated columns were then derived:
+ - **product_category** from category (D2)
+ ```
+=LEFT(D2,FIND("|",D2) - 1)
+```
+ - **count_review_id** from review_id column (J2)
+```
+=LEN(J2)-LEN(SUBSTITUTE(J2,",",""))+1
+```
+ - **revenue** from actual_price (F2) and rating_count (I2)
+   ```
+   =F2 * I2
+   ```
+ - **price_range_bracket** from actual_price (F2)
+   ```
+   =IFS(F2<200, "Less than 200",  AND(F2>=200, F2<=500), "Between 200 and 500", F2>500, "Greater than 500")
+   ```
+ - **discount_percentage_grouping** from discount percentage (G5)
+   ```
+   =IFS(G2=0%, "No Discount", AND(G2>= 1%, G2 <=20%), "Low Discount", AND(G2>=21%, G2<=50%), "Medium Discount", G2>=51%, "High Discount")
+   ```
+   
  ## ANSWERS
- ### According to questions given, the required columns for the analysis are just name, category, price, discount, ratings, rating count and user review. For optimal and easy analysis, clean the data i.e delete unnecessary columns.  
  ### Question 1; What is the average discount percentage by product category?
  ### From the data given, the category doesn't just contain the product categories, it contain more details of each product. Noticably, using a pivot table, there are just seven product categories; 
  - Car&Motorbike
