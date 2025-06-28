@@ -108,4 +108,11 @@
 ![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-28%20192659.png?raw=true)
 
 ## Question 12;  How many products have fewer than 1,000 reviews? 
+![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-28%20193130.png?raw=true)
+
+## Question 13; Which categories have products with the highest discounts? 
+![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-28%20193405.png?raw=true)
+
+## Question 14;  Identify the top 5 products in terms of rating and number of reviews combined. 
+![](https://github.com/Vector-of-Gad/DSA-E-COMMERCE-ANALYSIS-PROJECT-/blob/main/Screenshot%202025-06-28%20193804.png?raw=true)
 
