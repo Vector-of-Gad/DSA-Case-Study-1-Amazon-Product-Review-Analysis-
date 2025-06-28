@@ -26,8 +26,9 @@
 12. How many products have fewer than 1,000 reviews? 
 13. Which categories have products with the highest discounts? 
 14. Identify the top 5 products in terms of rating and number of reviews combined.
-    
-## DATA CLEANING
+
+## DATA ANALYSIS PROCESSESS
+
  ### According to questions given, the required columns for the analysis are:
  - name
  - category
