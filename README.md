@@ -28,8 +28,10 @@
 14. Identify the top 5 products in terms of rating and number of reviews combined.
 
 ## DATA ANALYSIS PROCESSESS
+1. DATA CLEANING: Unnecessary columns and blanks were deleted to allow a smooth analysis.
 
- ### According to questions given, the required columns for the analysis are:
+2. CALCULATED COLUMNS: Some columns required for analysis were not give from the primary data, hence the need for calculated columns. The processes and formulas for these columns are shown shown below;
+### According to questions given, the required columns for the analysis are:
  - name
  - category
  - price
@@ -47,19 +49,18 @@
 =LEN(J2)-LEN(SUBSTITUTE(J2,",",""))+1
 ```
  - **revenue** from actual_price (F2) and rating_count (I2)
-   ```
-   =F2 * I2
-   ```
+```
+=F2 * I2
+ ```
  - **price_range_bracket** from actual_price (F2)
-   ```
-   =IFS(F2<200, "Less than 200",  AND(F2>=200, F2<=500), "Between 200 and 500", F2>500, "Greater than 500")
-   ```
+  ```
+  =IFS(F2<200, "Less than 200",  AND(F2>=200, F2<=500), "Between 200 and 500", F2>500, "Greater than 500")
+  ```
  - **discount_percentage_grouping** from discount percentage (G5)
-   ```
-   =IFS(G2=0%, "No Discount", AND(G2>= 1%, G2 <=20%), "Low Discount", AND(G2>=21%, G2<=50%), "Medium Discount", G2>=51%, "High Discount")
-   ```
-   
- ### ANSWERS
+  ```
+  =IFS(G2=0%, "No Discount", AND(G2>= 1%, G2 <=20%), "Low Discount", AND(G2>=21%, G2<=50%), "Medium Discount", G2>=51%, "High Discount")
+  ```
+ ## ANALYSIS AND CALCULATIONS:
  ## Question 1; What is the average discount percentage by product category?
  ### From the data given, the category doesn't just contain the product categories, it contain more details of each product. According to product_category (a calculated column), there are just seven product categories; 
  - Car&Motorbike
