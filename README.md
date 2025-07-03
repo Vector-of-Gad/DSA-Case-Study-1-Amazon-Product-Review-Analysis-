@@ -1,7 +1,10 @@
 # **AMAZON PRODUCT REVIEW ANALYSIS**
 
 ## PROJECT OVERVIEW
-### This project provides a comprehensive analysis of e-commerce transaction data for the Amazon product platform. This is built using Microsoft Excel, the project includes data cleaning, transformation, and visualization to uncover key insights about customer behavior, revenue trends, and product performance.
+This project provides a comprehensive analysis of e-commerce transaction data for the Amazon product platform. This is built using Microsoft Excel, the project includes data cleaning, transformation, and visualization to uncover key insights about customer behavior, revenue trends, and product performance.
+## TOOLS AND SKILLS USED 
+1. Excel: For initial data exploration, cleaning, transformation and visualization.
+2. Data Analysis Techniques: Including grouping, aggregation, and filtering.
 
 ## DATASET DESCRIPTION 
 ### The dataset contains information scraped from Amazon product pages, including:
