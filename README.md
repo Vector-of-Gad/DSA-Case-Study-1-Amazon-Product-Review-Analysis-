@@ -9,7 +9,8 @@ This project provides a comprehensive analysis of e-commerce transaction data fo
 ## DATASET DESCRIPTION 
 ### The dataset contains information scraped from Amazon product pages, including:
 - Product details: name, category, price, discount, and ratings 
-- Customer engagement: user reviews, titles, and content 
+- Customer engagement: user reviews, titles, and content
+- Each row represents a unique product, with aggregated reviewer data stored as comma-separated values Total Records: 1,465 rows TotalFields: 16columns
 
  ## ANALYSIS TASKS
 ### Use pivot tables and calculated columns where necessary to answer the following: 
